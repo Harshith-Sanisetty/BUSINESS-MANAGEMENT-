@@ -8,7 +8,7 @@ Store user credentials securely (e.g., using file handling with encryption).
 Main Menu:
 
 Display a menu with options for income management, expense management, budgeting, and reports.
-Income Management:
+Income Management:.
 
 Add Income: Input the source of income, amount, and date.
 Edit/Delete Income: Modify or remove income entries.
